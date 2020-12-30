@@ -4,9 +4,10 @@ By using this System application
 you can rent a car in some period of time and
 then return back with amount.
 
-*Steps to create this application*
+#Steps to create this application........
 
 1) You have to learn java and JDBC connectivity
+
 2)Neatbeans or eclipse IDE is required
 3)For Database connectivity you need a Jarfiles
 4)diff jar files req for diff database eq.Mysql or Oracle Sql
